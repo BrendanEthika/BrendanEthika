@@ -61,11 +61,10 @@
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BrendanEthika&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEBp&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BrendanEthika/BrendanEthika/master/assets/twitter.svg" alt="BrendanEthika" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/brendancopley" target="blank"><img align="center" src="https://raw.githubusercontent.com/BrendanEthika/BrendanEthika/master/assets/linkedin.svg" alt="BrendanEthika" height="30" width="30" /></a>
 <a href="mailto:brendancopley@protonmail.com.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BrendanEthika/BrendanEthika/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
